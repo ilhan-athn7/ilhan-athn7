@@ -24,7 +24,7 @@
 
 ![Android](https://img.shields.io/badge/%E2%80%8E-Android-green.svg?logo=android)
 ![Windows](https://img.shields.io/badge/%E2%80%8E-Windows-blue.svg?logo=Windows)
-![Solus](https://img.shields.io/badge/%E2%80%8E-Solus-blue.svg?logo=solus)
+![Fedora](https://img.shields.io/badge/%E2%80%8E-Fedora-blue.svg?logo=kde)
 
 #### 📫 Contact me
 [![Telegram](https://img.shields.io/badge/%E2%80%8E-MrMiy4mo-blue.svg?&logo=telegram)](https://t.me/MrMiy4mo)
