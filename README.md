@@ -23,7 +23,7 @@
 #### 💻 Environment
 
 ![Android](https://img.shields.io/badge/%E2%80%8E-Android-green.svg?logo=android)
-![Windows](https://img.shields.io/badge/%E2%80%8E-Windows-blue.svg?logo=Windows)
+![Windows 11](https://img.shields.io/badge/%E2%80%8E-Windows%2011-blue.svg?logo=Windows)
 ![Fedora](https://img.shields.io/badge/%E2%80%8E-Fedora-blue.svg?logo=kde)
 
 #### 📫 Contact me
