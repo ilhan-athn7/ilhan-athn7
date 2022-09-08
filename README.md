@@ -23,7 +23,7 @@
 	
 #### 📫 Contact me
 
-[![LinkedIn](https://img.shields.io/badge/%E2%80%8E-LinkedIn-blue.svg?&logo=linkedin)](https://www.linkedin.com/in/ilhan-atahan-808423240)
+[![LinkedIn](https://img.shields.io/badge/%E2%80%8E-LinkedIn-blue.svg?&logo=linkedin)](https://www.linkedin.com/in/ilhan-athn7/)
 [![Telegram](https://img.shields.io/badge/%E2%80%8E-Telegram-blue.svg?&logo=telegram)](https://t.me/MrMiy4mo)
 [![Xda Forums](https://img.shields.io/badge/Xda-Xda%20Forum-orange.svg?&logo=xda)](https://forum.xda-developers.com/m/mrmiyamo.9545105/)
 [![Discord](https://img.shields.io/badge/%E2%80%8E-Discord-5865f2.svg?&logo=discord)](https://discordapp.com/users/767095353475334144)
