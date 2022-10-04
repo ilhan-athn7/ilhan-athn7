@@ -27,7 +27,7 @@
 [![Telegram](https://img.shields.io/badge/%E2%80%8E-Telegram-blue.svg?&logo=telegram)](https://t.me/MrMiy4mo)
 [![Xda Forums](https://img.shields.io/badge/Xda-Xda%20Forum-orange.svg?&logo=xda)](https://forum.xda-developers.com/m/mrmiyamo.9545105/)
 [![Discord](https://img.shields.io/badge/%E2%80%8E-Discord-5865f2.svg?&logo=discord)](https://discordapp.com/users/767095353475334144)
-[![Spotify](https://img.shields.io/badge/%E2%80%8E-Spotify-1DB954.svg?&logo=spotify)](https://open.spotify.com/user/31pagacxcfbifyhfbzq5gosrvwma?si=8_RgL1zeRCap-GiMbtVFVw)
+[![Spotify](https://img.shields.io/badge/%E2%80%8E-Spotify-1DB954.svg?&logo=spotify)](https://open.spotify.com/user/31pagacxcfbifyhfbzq5gosrvwma)
 
 #### 💻 Environment;
 
