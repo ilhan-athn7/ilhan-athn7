@@ -4,7 +4,7 @@
 ▷ △
 
 #### 💬 I'm interested in;
-- 💻 Android on PC (Android-x86 and it's forks)
+- 💻 Hacking Android and Android-x86
 - 🎧 EDM - Future Bass - Glitch Pop
 - 🖼️ Illustration - Anime Arts
 </details>
