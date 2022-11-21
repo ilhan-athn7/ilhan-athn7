@@ -4,14 +4,14 @@
 ▷ △
 
 #### 💬 I'm interested in;
-- 💻 Hacking Android and Android-x86
-- 🎧 EDM - Future Bass - Glitch Pop
-- 🖼️ Illustration - Anime Arts
+- 💻 Android-x86 and Hacking Android
+- 🎧 Digital Audio (Mostly EDM)
+- 🖼️ Digital Art (Illustration and Anime Arts)
 </details>
 
 #### 🌱 I have basic experience with;
 - Bash (Scripting in Linux)
-- Android Studio (Java)
+- Android Studio (Kotlin-Java)
 - Unity (Game Engine)
 - Windows Form Apps (C#)
 - ASP.Net (C#)
@@ -31,7 +31,9 @@
 
 #### 💻 Environment;
 
+<!--
 [![Fedora (KDE)](https://img.shields.io/badge/%E2%80%8E-Fedora%20(KDE)-blue.svg?logo=kde)](https://github.com/Zer0CoolX/Fedora-KDE-Minimal-Install-Guide)
+-->
 ![Windows 10 LTSC](https://img.shields.io/badge/%E2%80%8E-Windows%2010%20LTSC-blue.svg?logo=Windows)
 ![Android](https://img.shields.io/badge/%E2%80%8E-Android-green.svg?logo=android)
 
