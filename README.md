@@ -33,6 +33,7 @@
 [![Fedora (KDE)](https://img.shields.io/badge/%E2%80%8E-Fedora%20(KDE)-blue.svg?logo=kde)](https://github.com/Zer0CoolX/Fedora-KDE-Minimal-Install-Guide)
 -->
 ![Windows 10 LTSC](https://img.shields.io/badge/%E2%80%8E-Windows%2010%20LTSC-blue.svg?logo=Windows)
+![Archlinux (KDE)](https://img.shields.io/badge/%E2%80%8E-Arch%20Linux%20(KDE)-blue.svg?logo=Archlinux)
 ![Android](https://img.shields.io/badge/%E2%80%8E-Android-green.svg?logo=android)
 
 #### 📱 Devices;
