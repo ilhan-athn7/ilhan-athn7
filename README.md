@@ -1,16 +1,14 @@
 ## Hi there 👋 I am İlhan
-- Also known as:
-  - MrMiy4mo / MrMiyamo
-  - Soul Dancer
+- And I'm known as `MrMiy4mo` mostly on development/modding communities and `Soul Dancer` on gaming communities.
 
 #### 💬 I'm interested in;
-- 💻 Android-x86 and Hacking Android
+- 💻 Android-x86 and Modding Android
 - 🖼️ Digital Art (Illustration and Anime)
 - 🎧 Digital Audio (Mostly EDM)
 - 🎮 Mobile gaming and game development.
 
 #### 🌱 I have basic experience with;
-- Linux (Terminal & Scripting)
+- Linux (Terminal, Scripting, Bootloaders)
 - Unity (Game Engine)
 - Android Studio (Kotlin-Java)
 - Windows Form Apps (C#)
@@ -29,11 +27,8 @@
 [![Spotify](https://img.shields.io/badge/%E2%80%8E-Spotify-1DB954.svg?&logo=spotify)](https://open.spotify.com/user/31pagacxcfbifyhfbzq5gosrvwma)
 
 #### 💻 Environment;
-<!--
-[![Fedora (KDE)](https://img.shields.io/badge/%E2%80%8E-Fedora%20(KDE)-blue.svg?logo=kde)](https://github.com/Zer0CoolX/Fedora-KDE-Minimal-Install-Guide)
--->
 ![Windows 10 LTSC](https://img.shields.io/badge/%E2%80%8E-Windows%2010%20LTSC-blue.svg?logo=Windows)
-![Archlinux (KDE)](https://img.shields.io/badge/%E2%80%8E-Arch%20Linux%20(KDE)-blue.svg?logo=Archlinux)
+![Archlinux (KDE)](https://img.shields.io/badge/%E2%80%8E-Arch%20Linux%20(KDE)-blue.svg?logo=archlinux)
 ![Android](https://img.shields.io/badge/%E2%80%8E-Android-green.svg?logo=android)
 
 #### 📱 Devices;
