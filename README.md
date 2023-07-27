@@ -9,8 +9,9 @@
 
 #### 🌱 I have basic experience with;
 - Linux (Terminal, Scripting, Bootloaders)
-- Unity (Game Engine)
-- Android Studio (Kotlin-Java)
+- Github Actions (Continuous Integration)
+- Unity (C# - Game Engine)
+- Android Studio (Kotlin - Java)
 - Windows Form Apps (C#)
 - ASP.Net (C#)
 - MSSQL
