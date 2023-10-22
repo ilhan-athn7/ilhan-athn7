@@ -1,10 +1,11 @@
 ## Hi there 👋 I am İlhan
 - And I'm known as `MrMiy4mo` mostly on development/modding communities and `Soul Dancer` on gaming communities.
+- I'm more of a computer enthusiast, so trying to be a software developer.
 
 #### 💬 I'm interested in;
 - 💻 Android-x86 and Modding Android
 - 🖼️ Digital Art (Illustration and Anime)
-- 🎧 Digital Audio (Mostly EDM)
+- 🎧 Digital Audio (EDM)
 - 🎮 Mobile gaming and game development.
 
 #### 🌱 I have basic experience with;
