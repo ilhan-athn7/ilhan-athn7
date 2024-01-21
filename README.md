@@ -36,9 +36,9 @@
 
 
 #### 💻 Environment;
-![Windows 10 LTSC](https://img.shields.io/badge/%E2%80%8E-Windows%2010%20LTSC-blue.svg?logo=Windows)
-![Archlinux (KDE)](https://img.shields.io/badge/%E2%80%8E-Arch%20Linux%20(KDE)-blue.svg?logo=archlinux)
-![Android 14](https://img.shields.io/badge/%E2%80%8E-Android%2014-green.svg?logo=android)
+[![Windows 10 LTSC](https://img.shields.io/badge/%E2%80%8E-Windows%2010%20LTSC-blue.svg?logo=Windows)](https://files.rg-adguard.net/file/19a36b7b-269b-ebf8-105b-a375f70b7ae2)
+[![Archlinux (KDE)](https://img.shields.io/badge/%E2%80%8E-Arch%20Linux%20(KDE)-blue.svg?logo=archlinux)](https://wiki.archlinux.org/title/installation_guide)
+[![Android 14](https://img.shields.io/badge/%E2%80%8E-Android%2014-green.svg?logo=android)](https://xdaforums.com/t/rom-14-ota-crdroid-10-for-mi-8-se-xmsirius-encryption-unofficial.4639873/)
 
 #### 📱 Devices;
 [![Xiaomi Mi 8 SE (Sirius)](https://img.shields.io/badge/%E2%80%8E-Xiaomi%20Mi%208%20SE%20(Sirius)-orange.svg?logo=xiaomi&colorA=white)](https://www.trendyol.com/xiaomi/mi-8-se-64-gb-6-gb-duos-akilli-cep-telefonu-p-271600805)
