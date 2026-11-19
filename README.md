@@ -12,7 +12,7 @@
 
 #### 💻 These are my workstation;
 [![Windows 11 LTSC](https://img.shields.io/badge/🪟-Windows%2011%20LTSC-blue.svg?logo=0)](https://files.rg-adguard.net/file/142ca376-487f-e858-a606-e120e70b9d02)
-[![Archlinux (KDE)](https://img.shields.io/badge/%E2%80%8E-Arch%20Linux%20(KDE)-blue.svg?logo=archlinux)](https://wiki.archlinux.org/title/installation_guide)
+[![Archlinux (KDE)](https://img.shields.io/badge/%E2%80%8E-Arch%20Linux%20(KDE)-blue.svg?logo=archlinux)](https://gist.github.com/ilhan-athn7/62eb00f500cb08749c8a2921e5d121d4)
 [![Ubuntu Jammy (KDE)](https://img.shields.io/badge/%E2%80%8E-Ubuntu%20Jammy%20(KDE)-orange.svg?logo=ubuntu)](https://github.com/ilhan-athn7/ubuntu_jammy_rootfs)
 [![Android 15](https://img.shields.io/badge/%E2%80%8E-Android%2015-green.svg?logo=android)](https://xdaforums.com/f/nothing-phone-1.12585/)
 
